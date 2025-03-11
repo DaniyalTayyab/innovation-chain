@@ -68,12 +68,12 @@ export const socialList = [
 	{
 		id: "socialList_1",
 		icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl text-clr-gold" />,
-		href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+		href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 	},
 	// {
 	// 	id: "socialList_2",
 	// 	icon: <img src={TwitterX} alt="tiwtter" className="w-5 h-5 text-clr-gold" />,
-	// 	href: "https://twitter.com/tolcoin_co",
+	// 	href: "https://twitter.com/Innovation Chain_co",
 	// },
 	{
 		id: "socialList_3",
@@ -148,7 +148,7 @@ export const footerLinks = [
 			{
 				id: "footer_col_2_3",
 				text: "Blogs",
-				href: "https://medium.com/@tolcoinn",
+				href: "https://medium.com/@Innovation Chainn",
 			},
 			{
 				id: "footer_col_2_4",
@@ -220,7 +220,7 @@ export const benefitsList = [
 			<FaAutoprefixer className="S-950:w-9 w-7 S-550:h-9 h-7 text-4xl font-bold text-clr-main-dark" />
 		),
 		title: "Autonomy",
-		text: "ToLcoin offers users total autonomy in financial transactions.",
+		text: "Innovation Chain offers users total autonomy in financial transactions.",
 	},
 	{
 		id: "bene_2",
@@ -228,7 +228,7 @@ export const benefitsList = [
 			<DiScala className="S-950:w-9 w-7 S-550:h-9 h-7 text-4xl font-bold text-clr-main-dark" />
 		),
 		title: "Improved Scalability",
-		text: "ToLcoin addresses scalability challenges and enables faster transactions.",
+		text: "Innovation Chain addresses scalability challenges and enables faster transactions.",
 	},
 	{
 		id: "bene_3",
@@ -244,7 +244,7 @@ export const benefitsList = [
 			<MdSecurity className="S-950:w-9 w-7 S-550:h-9 h-7 text-4xl font-bold text-clr-main-dark" />
 		),
 		title: "Security",
-		text: "ToLcoin employs robust security measures to protect transactions and user funds.",
+		text: "Innovation Chain employs robust security measures to protect transactions and user funds.",
 	},
 ];
 
@@ -298,7 +298,7 @@ export const projects = [
 			{
 				id: "socialList_3_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -323,7 +323,7 @@ export const projects = [
 			{
 				id: "socialList_1_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -373,7 +373,7 @@ export const projects = [
 			{
 				id: "socialList_2_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -398,7 +398,7 @@ export const projects = [
 			{
 				id: "socialList_7_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -574,7 +574,7 @@ export const projects = [
 			{
 				id: "socialList_4_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -599,7 +599,7 @@ export const projects = [
 			{
 				id: "socialList_9_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -624,7 +624,7 @@ export const projects = [
 			{
 				id: "socialList_9_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},
@@ -649,7 +649,7 @@ export const projects = [
 			{
 				id: "socialList_9_3",
 				icon: <FaFacebookF className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.facebook.com/people/ToLcoin/100092447538246/",
+				href: "https://www.facebook.com/people/Innovation Chain/100092447538246/",
 			},
 		],
 	},

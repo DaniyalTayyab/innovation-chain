@@ -126,7 +126,7 @@ function WithdrawalModal() {
 		>
 			<div className="flex flex-col  space-y-8 py-3">
 				<h1 className="text-xl text-clr-off-white font-medium text-center">
-					add receiver address and amount to send ToLcoin
+					add receiver address and amount to send Innovation Chain
 				</h1>
 				{/* inputs */}
 				<div className="flex flex-col items-start space-y-3 S-950:px-4 px-1 w-full">

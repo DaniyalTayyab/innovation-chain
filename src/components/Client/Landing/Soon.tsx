@@ -46,7 +46,7 @@ function Soon() {
 			<div className="max-w-max-custom w-90vw mx-auto flex flex-col space-y-20 items-center justify-center">
 				<h1 className="text-white S-550:text-6xl text-4xl text-center font-bold">
 					<span>Introducing </span>
-					<span className="text-clr-main-gold">ToLcoin 2.0</span>
+					<span className="text-clr-main-gold">Innovation Chain</span>
 					<span>: Reimagined </span>
 					<span className="text-clr-main-gold">&</span>
 					<span> Redefined.</span>

@@ -41,8 +41,8 @@ function LandingPage() {
 			<Footer />
 			<FloatingWhatsApp
 				phoneNumber="+33644650049"
-				accountName="ToLcoin Support"
-				chatMessage="Hello! Welcome to ToLcoin. Please let us know how we can assist you today."
+				accountName="Innovation Chain Support"
+				chatMessage="Hello! Welcome to Innovation Chain. Please let us know how we can assist you today."
 				style={{ color: "black" }}
 			/>
 		</section>

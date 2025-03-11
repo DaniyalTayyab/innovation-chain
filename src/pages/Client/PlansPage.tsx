@@ -222,7 +222,7 @@ function PlansPage() {
 									Coming Soon
 								</h1>
 								<p className="text-xl font-medium text-clr-gold">
-									you can pay 50% of amount in ToLcoin
+									you can pay 50% of amount in Innovation Chain
 								</p>
 								<div className="flex flex-row items-center justify-center">
 									<input
@@ -253,7 +253,7 @@ function PlansPage() {
 						<div className="flex flex-col items-center mb-4 py-5 col-span-12 relative">
 							<h1 className="text-5xl font-bold text-clr-gold">Coming Soon</h1>
 							<p className="text-xl font-medium text-clr-gold">
-								you can pay 50% of amount in ToLcoin
+								you can pay 50% of amount in Innovation Chain
 							</p>
 						</div>
 					</div>
