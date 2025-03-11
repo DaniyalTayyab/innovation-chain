@@ -1,0 +1,11 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M44.0002 84.8574C66.565 84.8574 84.8574 66.565 84.8574 44.0002C84.8574 21.4354 66.565 3.14307 44.0002 3.14307C21.4354 3.14307 3.14307 21.4354 3.14307 44.0002C3.14307 66.565 21.4354 84.8574 44.0002 84.8574Z" stroke="#337AAD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 35.1245V68H26.1608V45.3369L41.0051 68H47.5255V40.0209H55.017V68H61.2599V40.0209H70V34.8447H47.5255V25.1919H61.1212V20.0158H47.5255V15H41.0051V57.6477L26.1608 35.1245H20Z" stroke="#337AAD" stroke-width="2.5"/>
+<path d="M20 35.1245V68H26.1608V45.3369L41.0051 68H47.5255V40.0209H55.017V68H61.2599V40.0209H70V34.8447H47.5255V25.1919H61.1212V20.0158H47.5255V15H41.0051V57.6477L26.1608 35.1245H20Z" stroke="url(#paint0_diamond_140_754)"/>
+<defs>
+<radialGradient id="paint0_diamond_140_754" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(41.0133 24.8644) rotate(89.7794) scale(43.136 151.049)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#337AAD" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
